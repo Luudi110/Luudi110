@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang-dark.gif" alt="lang image here" /></p>
   
 <p>
   <h1 align="center"><b>Hello, I'm Luudi 👋</b></h1>
